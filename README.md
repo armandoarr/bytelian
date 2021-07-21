@@ -16,7 +16,7 @@ si se desea ejecutar en el fondo.
 
 Ejecutar
 ```bash
-$ python load_model()
+$ python load_model.py
 ```
 para crear el esquema e insertar datos.
 ## Tablero de control
